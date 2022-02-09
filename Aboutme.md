@@ -2,7 +2,7 @@
 - 👀 I’m Interested In Devlopment And Security 
 - 🌱 I’m currently learning C++
 - 📫 How to reach me 
-- My Instagram id : _Ritesh__31
+- My Linkedin Profile : Ritesh Mandaviya
 
 <!---
 Rits0631/Rits0631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
