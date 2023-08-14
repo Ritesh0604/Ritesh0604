@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I’m @Rits0631<br>👀 I’m Interested In Development And Security<br>🌱 I’m currently learning C++
+👋 Hi, I’m Ritesh Mandaviya<br>👀 I’m Interested In Development And Security<br>🌱 I’m currently learning C++
 
 ## 🌐 Socials:
 
@@ -13,15 +13,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Rits0631&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ritesh0604&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rits0631&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh0604&theme=monokai&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rits0631&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh0604&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Rits0631&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ritesh0604&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 
@@ -33,7 +33,7 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Rits0631&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ritesh0604&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 
@@ -41,7 +41,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rits0631&icon=2&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ritesh0604&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
