@@ -13,11 +13,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ritesh0604&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh0604&theme=monokai&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh0604&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=Ritesh0604&count_private=true&show_icons=true&theme=react" />  <img width="51%" src="https://streak-stats.demolab.com/?user=Ritesh0604&theme=react" />
+<img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh0604&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh0604&theme=react&show_icons=true&hide_border=false&layout=compact" />
 
 ## 🏆 GitHub Trophies
 
