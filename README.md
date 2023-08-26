@@ -23,7 +23,7 @@
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=Ritesh0631)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Ritesh0604)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 
