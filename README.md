@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ritesh Mandaviya <br>👀 I’m Interested In Development And Security <br>🌱 I’m currently learning Web/App Development & Sharpen my hands on Kali Linux<br>🏆 SSIP 2023 Winner | 1st Rank<br>🎯 My main goal is to pursue a career in Computer Network & Cyber Security
+👋 Hi, I’m Ritesh Mandaviya <br>👀 I’m Interested In Development And Security <br>🌱 I’m currently learning Web/App Development & Sharpen my hands on Kali Linux<br>🏆 SSIP 2023 Winner | 1st Rank<br>🎯 My main goal is to pursue a career in Software Engineering, Computer Network & Cyber Security
 
 
 ## 🌐 Socials:
